@@ -86,3 +86,4 @@ node_modules/
 *.bak
 *.tmp
 .cache/
+.vercel
